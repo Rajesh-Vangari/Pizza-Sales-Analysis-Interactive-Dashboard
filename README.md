@@ -22,6 +22,7 @@ Analyzing pizza ratings.
 📊 Dashboard Overview The interactive Excel Dashboard is designed to provide instant, actionable insights into pizza sales. The dashboard features:
 
 Total Sales: Displays overall revenue.
+
 Top Pizzas: Visualizes the best-selling pizza types and sizes.
 
 Sales by Day: Shows sales performance across different days of the week using horizontal bar charts.
@@ -41,8 +42,11 @@ Customer Segmentation: Insights into purchasing patterns.
 Dashboard Features:
 
 Interactive Filters: Filter data by month, day of the week, pizza size, type, category, and rating using slicers.
+
 Dynamic Charts: Charts update in real-time when filters are applied.
+
 KPI Highlights: Key metrics like highest revenue month, top-selling pizza, popular pizza size, category, and average rating are automatically highlighted.
+
 🔍 Key Insights
 
 🍕 Top-Selling Pizza: The best-selling pizza type brought in the highest revenue, indicating strong demand for specific toppings or style.
