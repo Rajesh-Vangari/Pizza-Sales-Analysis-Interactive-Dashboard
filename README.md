@@ -32,11 +32,17 @@ KPI Highlights: Key metrics like highest revenue month, top-selling pizza, popul
 🔍 Key Insights
 
 🍕 Top-Selling Pizza: The best-selling pizza type brought in the highest revenue, indicating strong demand for specific toppings or style.
+
 📅 Sales by Day: Horizontal bar charts reveal which days of the week see the most sales, helping identify peak days.
+
 📅 Seasonal Trends: Bar charts highlight sales performance over different months, suggesting seasonality in pizza demand.
+
 🍕 Popular Pizza Sizes: Pizza size was the most ordered, showing customer preference for size preference.
+
 🍕 Pizza Categories: Horizontal bar charts show which categories, like Veggie or Chicken, had the highest sales.
+
 ⭐ Pizza Ratings: Pizza type received the highest average rating, indicating strong customer satisfaction.
+
 💰 Profits: The pie chart displays the distribution of profits among different pizzas or categories.
 
 🛠️ How to Explore the Data
