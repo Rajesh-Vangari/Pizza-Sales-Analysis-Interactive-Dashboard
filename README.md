@@ -7,23 +7,37 @@ Welcome to the Pizza Sales Analysis project! This repository features a detailed
 
 Data File: Pizza Sales.xlsx
 Tools: Microsoft Excel (PivotTables, Charts, and Dashboards)
+
 Focus Areas:
 Identifying top-selling pizzas, customer preferences, and pizza sizes.
+
 Analyzing monthly and seasonal sales trends.
+
 Exploring sales performance across different days of the week.
+
 Understanding pizza sales by category (e.g., Veggie, Chicken, Supreme, Classic).
+
 Analyzing pizza ratings.
+
 📊 Dashboard Overview The interactive Excel Dashboard is designed to provide instant, actionable insights into pizza sales. The dashboard features:
 
 Total Sales: Displays overall revenue.
 Top Pizzas: Visualizes the best-selling pizza types and sizes.
+
 Sales by Day: Shows sales performance across different days of the week using horizontal bar charts.
+
 Monthly Trends: Tracks sales performance over time with bar charts.
+
 Pizza Sizes: Analyzes sales distribution by small, medium, and large pizzas.
+
 Pizza Categories: Analyzes sales distribution across different categories using horizontal bar charts.
+
 Pizza Ratings: Analyzes average ratings for pizzas.
+
 Profits: Displays profit distribution using a pie chart.
+
 Customer Segmentation: Insights into purchasing patterns.
+
 Dashboard Features:
 
 Interactive Filters: Filter data by month, day of the week, pizza size, type, category, and rating using slicers.
